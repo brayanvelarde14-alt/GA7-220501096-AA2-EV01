@@ -1,6 +1,6 @@
-# Ejemplo CRUD de Java JDBC con MariaDB
+# Ejemplo CRUD de Java JDBC con MariaDB o MySQL
 
-Este proyecto es una aplicación de línea de comandos simple en Java que demuestra cómo conectarse a una base de datos MariaDB y realizar un conjunto completo de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando un controlador JDBC estándar.
+Este proyecto es una aplicación de línea de comandos simple en Java que demuestra cómo conectarse a una base de datos MariaDB o MySQL y realizar un conjunto completo de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando un controlador JDBC estándar.
 
 ## Características
 
